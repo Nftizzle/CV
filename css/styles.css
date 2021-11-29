@@ -1,0 +1,47 @@
+body {
+  background-color: #E9A6A6
+}
+
+hr {
+  background-color: #E9A6A6;
+  border-style: dotted;
+  border-color: #1F1D36;
+  border-width: 10px;
+  border-bottom-style: none;
+  width: 20%;
+}
+
+li {
+  color: #864879
+}
+
+h1 {
+color: #1F1D36
+}
+
+h3 {
+  color: #3F3351
+}
+
+p {
+  color: #864879
+}
+
+table {
+  color: #864879
+
+}
+
+.hbtn {
+  background-color: purple;
+  color: white;
+  width: 55px;
+  height: 30px;
+  }
+
+.cbtn{
+  background-color: purple;
+  color: white;
+  width: 55px;
+  height: 30px;
+}
